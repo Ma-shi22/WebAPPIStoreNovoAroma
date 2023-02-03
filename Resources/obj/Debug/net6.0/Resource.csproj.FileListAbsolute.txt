@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Desktop\FEMCODERS\WebAPISQLtienda\WebAPPIStoreNovoAroma\Resources\obj\Debug\net6.0\Resource.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\FEMCODERS\WebAPISQLtienda\WebAPPIStoreNovoAroma\Resources\obj\Debug\net6.0\Resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\FEMCODERS\WebAPISQLtienda\WebAPPIStoreNovoAroma\Resources\obj\Debug\net6.0\Resource.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\FEMCODERS\WebAPISQLtienda\WebAPPIStoreNovoAroma\Resources\obj\Debug\net6.0\Resource.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\FEMCODERS\WebAPISQLtienda\WebAPPIStoreNovoAroma\Resources\obj\Debug\net6.0\Resource.csproj.CoreCompileInputs.cache
